@@ -1,0 +1,2 @@
+# BepInExPlugin
+BepInEx Plugin Template
